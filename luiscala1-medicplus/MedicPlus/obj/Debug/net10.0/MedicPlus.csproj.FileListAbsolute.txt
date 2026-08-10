@@ -1,0 +1,12 @@
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/bin/Debug/net10.0/MedicPlus.deps.json
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/bin/Debug/net10.0/MedicPlus.dll
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/bin/Debug/net10.0/MedicPlus.pdb
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.GeneratedMSBuildEditorConfig.editorconfig
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.AssemblyInfoInputs.cache
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.AssemblyInfo.cs
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.csproj.CoreCompileInputs.cache
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.sourcelink.json
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.dll
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/refint/MedicPlus.dll
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/MedicPlus.pdb
+/home/cohorte5/Escritorio/riderprojects/luiscala1-medicplus/MedicPlus/obj/Debug/net10.0/ref/MedicPlus.dll
